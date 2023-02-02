@@ -8,8 +8,3 @@
 	url = https://github.com/florale/multilevelcoda
 	shallow = true
 	registered = true
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
-	shallow = true
-	registered = false
